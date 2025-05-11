@@ -1,0 +1,19 @@
+# Fichiers Python et Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+*.env
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Données sensibles ou temporaires
+*.log
+*.tmp
+*.bak
